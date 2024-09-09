@@ -1,15 +1,3 @@
-# x-ui-scripts
-
-This repository contains some useful scripts for x-ui and 3x-ui.
-
-# Scripts
-
-## Manual Build [3x-ui](https://github.com/MHSanaei/3x-ui)
-
-```sh
-bash <(curl -sSL https://raw.githubusercontent.com/hamid-gh98/x-ui-scripts/main/build_3x-ui.sh)
-```
-
 ## Install [Warp](https://gitlab.com/fscarmen/warp) (on socks5 proxy) for 3x-ui
 
 ```sh
