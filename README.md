@@ -1,7 +1,7 @@
 ## Install [Warp](https://gitlab.com/fscarmen/warp) (on socks5 proxy) for 3x-ui
 
 ```sh
-bash <(curl -sSL https://raw.githubusercontent.com/hamid-gh98/x-ui-scripts/main/install_warp_proxy.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/civisrom/x-ui-scripts/main/install_warp_proxy.sh)
 ```
 
 ### options
